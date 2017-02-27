@@ -27,6 +27,10 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Cursed
     * Bound
   * Flavor Text:
+    * "Mind if I pick your brains?"
+    * "Gold is just a swing away"
+    * "It hungers for ore"
+    * "Heigh-ho, Heigh-ho..."
     * 
     
 ####2. Shovel
@@ -38,6 +42,8 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * "A gravedigger's trusty tool"
     * "Digs up the real dirt"
+    * "A spade for the heart"
+    * "Will unearth many mysteries"
     * 
     
 ####3. Axe
@@ -48,6 +54,11 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * "Lemme axe you this..."
+    * "TIMBER"
+    * "It hungers for wood"
+    * "Carved on the axe's handle is the name "LUCY"..."  ~~cough cough dont starve cough~~
+    * "You can feel the trees quiver in fear (of this axe)"
+    * "Has fell the mightiest of trees"
     * 
     
 ####4. Hoe
@@ -58,6 +69,8 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * "The best of them all"
+    * "Better than the corner variety"
+    * "Sews the seeds of your demise"
     * 
     
 ####5. Sword
@@ -70,6 +83,9 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * "A glorified butter knife"
+    * "Basically a steel toothpick"
+    * "This reminds you of one of your animes"
+    * "You feel like you shouldnt be able to lift this" 
     * 
     
 ####6. Helmet
@@ -80,6 +96,9 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Cursed
     * Costume
   * Flavor Text:
+    * "Talk about hard headded"
+    * "Protector of craniums"
+    * "Safety first!"
     * 
     
 ####7. Chestplate
@@ -91,7 +110,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Cursed
     * Costume
   * Flavor Text:
-    * 
+    * "
     
 ####8. Leggings
   * Item Effects:
