@@ -38,7 +38,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * "A gravedigger's trusty tool"
     * "Digs up the real dirt"
-    *
+    * 
     
 ####3. Axe
   * Item Effects:
@@ -48,7 +48,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * "Lemme axe you this..."
-    *
+    * 
     
 ####4. Hoe
   * Item Effects:
@@ -70,7 +70,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * "A glorified butter knife"
-    *
+    * 
     
 ####6. Helmet
   * Item Effects:
