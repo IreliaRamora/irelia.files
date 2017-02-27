@@ -28,6 +28,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * 
+    
 2. Shovel
   * Item Effects:
     * Imbued
@@ -35,6 +36,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * 
+    
 3. Axe
   * Item Effects:
     * Imbued
