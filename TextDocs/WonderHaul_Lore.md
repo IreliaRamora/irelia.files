@@ -19,7 +19,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
 
 ## Item Lore
 
-1. Pick
+####1. Pick
   * Item Effects:
     * Imbued
       * Recursive Prospecting
@@ -29,7 +29,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-2. Shovel
+####2. Shovel
   * Item Effects:
     * Imbued
     * Cursed
@@ -37,7 +37,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-3. Axe
+####3. Axe
   * Item Effects:
     * Imbued
     * Cursed
@@ -45,7 +45,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-4. Hoe
+####4. Hoe
   * Item Effects:
     * Imbued
     * Cursed
@@ -53,7 +53,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-5. Sword
+####5. Sword
   * Item Effects:
     * Imbued
     * Cursed
@@ -61,7 +61,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-6. Helmet
+####6. Helmet
   * Item Effects:
     * Imbued
     * Cursed
@@ -69,7 +69,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-7. Chestplate
+####7. Chestplate
   * Item Effects:
     * Imbued
     * Cursed
@@ -77,7 +77,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-8. Leggings
+####8. Leggings
   * Item Effects:
     * Imbued
     * Cursed
@@ -85,7 +85,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-9. Boots
+####9. Boots
   * Item Effects:
     * Imbued
     * Cursed
@@ -93,51 +93,51 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Flavor Text:
     * 
     
-10. Shears
+####10. Shears
   * Item Effects:
     * Imbued
     * Cursed
   * Flavor Text:
     * 
     
-11. Bows
+####11. Bows
   * Item Effects:
     * Imbued
     * Cursed
   * Flavor Text:
     * 
     
-12. Rods
+####12. Rods
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-13. Flint and Steel
+####13. Flint and Steel
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-14. Carrot on a Stick
+####14. Carrot on a Stick
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-15. Shield
+####15. Shield
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-16. Elytra
+####16. Elytra
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-17. Scroll
+####17. Scroll
   1. Perk Scroll
     * Item Effects:
       * 
@@ -164,31 +164,31 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * General Effects:
   * General Flavor Text:
   
-18. Codex
+####18. Codex
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-19. Tome
+####19. Tome
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-20. Accessory
+####20. Accessory
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-21. Relic
+####21. Relic
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-22. Crate
+####22. Crate
   1. Crate I
     * Item Effects:
       * 
@@ -207,13 +207,13 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * General Effects:
   * General Flavor Text:
   
-23. Recipie
+####23. Recipie
   * Item Effects:
     * 
   * Flavor Text:
     * 
     
-24. Trophy
+####24. Trophy
   * Item Effects:
     * 
   * Flavor Text:
