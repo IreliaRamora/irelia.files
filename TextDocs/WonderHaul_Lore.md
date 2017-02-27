@@ -44,6 +44,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * 
+    
 4. Hoe
   * Item Effects:
     * Imbued
@@ -51,6 +52,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * 
+    
 5. Sword
   * Item Effects:
     * Imbued
@@ -58,6 +60,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Bound
   * Flavor Text:
     * 
+    
 6. Helmet
   * Item Effects:
     * Imbued
@@ -65,6 +68,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Costume
   * Flavor Text:
     * 
+    
 7. Chestplate
   * Item Effects:
     * Imbued
@@ -72,6 +76,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Costume
   * Flavor Text:
     * 
+    
 8. Leggings
   * Item Effects:
     * Imbued
@@ -79,6 +84,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Costume
   * Flavor Text:
     * 
+    
 9. Boots
   * Item Effects:
     * Imbued
@@ -86,59 +92,70 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Costume
   * Flavor Text:
     * 
+    
 10. Shears
   * Item Effects:
     * Imbued
     * Cursed
   * Flavor Text:
     * 
+    
 11. Bows
   * Item Effects:
     * Imbued
     * Cursed
   * Flavor Text:
     * 
+    
 12. Rods
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 13. Flint and Steel
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 14. Carrot on a Stick
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 15. Shield
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 16. Elytra
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 17. Scroll
   1. Perk Scroll
     * Item Effects:
       * 
     * Flavor Text:
       * 
+      
   2. Runic Scroll
     * Item Effects:
       * 
     * Flavor Text:
       * 
+      
   3. Enchanting Scroll
     * Item Effects:
       * 
     * Flavor Text:
       * 
+      
   4. Arcane Scroll
     * Item Effects:
       * 
@@ -146,26 +163,31 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
       * 
   * General Effects:
   * General Flavor Text:
+  
 18. Codex
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 19. Tome
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 20. Accessory
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 21. Relic
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 22. Crate
   1. Crate I
     * Item Effects:
@@ -184,11 +206,13 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
       * 
   * General Effects:
   * General Flavor Text:
+  
 23. Recipie
   * Item Effects:
     * 
   * Flavor Text:
     * 
+    
 24. Trophy
   * Item Effects:
     * 
