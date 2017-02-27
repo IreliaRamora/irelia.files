@@ -32,38 +32,51 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
 ####2. Shovel
   * Item Effects:
     * Imbued
+      * Reinforced Excavator
     * Cursed
     * Bound
   * Flavor Text:
-    * 
+    * "A gravedigger's trusty tool"
+    * "Digs up the real dirt"
+    *
     
 ####3. Axe
   * Item Effects:
     * Imbued
+      * Wood Processing
     * Cursed
     * Bound
   * Flavor Text:
-    * 
+    * "Lemme axe you this..."
+    *
     
 ####4. Hoe
   * Item Effects:
     * Imbued
+      * Ploughman
     * Cursed
     * Bound
   * Flavor Text:
+    * "The best of them all"
     * 
     
 ####5. Sword
   * Item Effects:
     * Imbued
+      * Lifesteal
+      * Guts
+      * Corruption
     * Cursed
     * Bound
   * Flavor Text:
-    * 
+    * "A glorified butter knife"
+    *
     
 ####6. Helmet
   * Item Effects:
     * Imbued
+      * Biometrics
+      * Gills
     * Cursed
     * Costume
   * Flavor Text:
@@ -72,6 +85,9 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
 ####7. Chestplate
   * Item Effects:
     * Imbued
+      * Fire Guard
+      * Life Drain
+      * Tough Fat
     * Cursed
     * Costume
   * Flavor Text:
@@ -80,6 +96,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
 ####8. Leggings
   * Item Effects:
     * Imbued
+      * Gravity Shift
     * Cursed
     * Costume
   * Flavor Text:
@@ -88,6 +105,9 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
 ####9. Boots
   * Item Effects:
     * Imbued
+      * Permafrost
+      * Head Stomper
+      * Quick Foot
     * Cursed
     * Costume
   * Flavor Text:
@@ -103,13 +123,18 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
 ####11. Bows
   * Item Effects:
     * Imbued
+      * Thrill of the Hunt
+      * Triple Shot
     * Cursed
   * Flavor Text:
     * 
     
 ####12. Rods
   * Item Effects:
-    * 
+    * Imbued
+      * Catch Counter
+    * Cursed
+    * Bound
   * Flavor Text:
     * 
     
