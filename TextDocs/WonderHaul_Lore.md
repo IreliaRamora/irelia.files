@@ -117,6 +117,7 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
   * Item Effects:
     * Imbued
     * Cursed
+    * Bound
   * Flavor Text:
     * 
     
@@ -140,25 +141,35 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     
 ####13. Flint and Steel
   * Item Effects:
-    * 
+    * Imbued
+    * Cursed
+    * Bound
   * Flavor Text:
     * 
     
 ####14. Carrot on a Stick
   * Item Effects:
-    * 
+    * Imbued
+    * Cursed
+    * Bound
+    * Food
   * Flavor Text:
     * 
     
 ####15. Shield
   * Item Effects:
-    * 
+    * Imbued
+    * Cursed
+    * Bound
   * Flavor Text:
     * 
     
 ####16. Elytra
   * Item Effects:
-    * 
+    * Imbued
+      * Astral Wings
+    * Cursed
+    * Bound
   * Flavor Text:
     * 
     
@@ -187,29 +198,34 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Flavor Text:
       * 
   * General Effects:
+    * Cursed?
+    * Bound?
   * General Flavor Text:
   
 ####18. Codex
   * Item Effects:
-    * 
+    * Cursed?
+    * Bound?
   * Flavor Text:
     * 
     
 ####19. Tome
   * Item Effects:
-    * 
+    * Cursed?
+    * Bound?
   * Flavor Text:
     * 
     
 ####20. Accessory
   * Item Effects:
-    * 
+    * Imbued
+    * Cursed
   * Flavor Text:
     * 
     
 ####21. Relic
   * Item Effects:
-    * 
+    * Imbued (Mysterious spell?)
   * Flavor Text:
     * 
     
@@ -230,16 +246,18 @@ In addition, all WonderHaul items will have their Item type and Tier listed at t
     * Flavor Text:
       * 
   * General Effects:
+    * Cursed? (Mimic / bad items?)
   * General Flavor Text:
   
 ####23. Recipie
   * Item Effects:
-    * 
+    * N/A?
   * Flavor Text:
     * 
     
 ####24. Trophy
   * Item Effects:
-    * 
+    * Decoration
+    * Microblock
   * Flavor Text:
     * 
